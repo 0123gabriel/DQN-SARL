@@ -1,0 +1,44 @@
+2025-02-01 02:32:09, INFO: Using device: cuda:0
+2025-02-01 02:32:09, INFO: Policy: SARL w/o global state
+2025-02-01 02:32:12, INFO: human number: 4
+2025-02-01 02:32:12, INFO: Randomize human's radius and preferred speed
+2025-02-01 02:32:12, INFO: Training simulation: circle_crossing, test simulation: circle_crossing
+2025-02-01 02:32:12, INFO: Square width: 10.0, circle width: 8.0
+2025-02-01 02:32:12, INFO: Current learning rate: 0.000010
+2025-02-01 02:32:14, INFO: human number: 4
+2025-02-01 02:32:15, INFO: running 1/4000 episode, simulation environment: circle_crossing
+2025-02-01 02:32:15, INFO: 1/4000 episode: Collision! Total Reward: -23.127, R_dan: 0.02, R_goal: 0.0, R_col: -25.0, R_km: 0.72, R_col_wall: 0.0, R_wall_min_dist: 0.057, R_stop_t: 0.0, R_forward: -0.546, R_way_point_dist: 0.72, R_way_point_dir: 0.906
+2025-02-01 02:32:15, INFO: Path length: 12.6908109995
+2025-02-01 02:32:15, INFO: Path left: 57.6717294515
+2025-02-01 02:32:15, INFO: Actions: 24
+2025-02-01 02:32:15, INFO: Coordinates: -4.2407696414 -7.63607584048
+2025-02-01 02:32:15, INFO: Stops times: 0
+
+2025-02-01 02:32:16, INFO: human number: 4
+2025-02-01 02:32:17, INFO: running 2/4000 episode, simulation environment: circle_static
+2025-02-01 02:32:17, INFO: 2/4000 episode: Collision! Total Reward: -24.745, R_dan: 0.01, R_goal: 0.0, R_col: -25.0, R_km: 0.23, R_col_wall: 0.0, R_wall_min_dist: 0.021, R_stop_t: -0.01, R_forward: -0.694, R_way_point_dist: 0.3, R_way_point_dir: 0.396
+2025-02-01 02:32:17, INFO: Path length: 4.25881469561
+2025-02-01 02:32:17, INFO: Path left: 64.5723209212
+2025-02-01 02:32:17, INFO: Actions: 10
+2025-02-01 02:32:17, INFO: Coordinates: 2.94058541894 -8.55633681431
+2025-02-01 02:32:17, INFO: Stops times: 1
+
+2025-02-01 02:32:18, INFO: human number: 4
+2025-02-01 02:32:19, INFO: running 3/4000 episode, simulation environment: circle_crossing
+2025-02-01 02:32:19, INFO: 3/4000 episode: Collision! Total Reward: -25.05, R_dan: 0.004, R_goal: 0.0, R_col: -25.0, R_km: 0.12, R_col_wall: 0.0, R_wall_min_dist: 0.009, R_stop_t: 0.0, R_forward: -0.4, R_way_point_dist: 0.12, R_way_point_dir: 0.097
+2025-02-01 02:32:19, INFO: Path length: 2.46900311379
+2025-02-01 02:32:19, INFO: Path left: 62.0352785751
+2025-02-01 02:32:19, INFO: Actions: 4
+2025-02-01 02:32:19, INFO: Coordinates: -0.166515728235 -8.85595346898
+2025-02-01 02:32:19, INFO: Stops times: 0
+
+2025-02-01 02:32:20, INFO: human number: 4
+2025-02-01 02:32:21, INFO: running 4/4000 episode, simulation environment: circle_static
+2025-02-01 02:32:21, INFO: 4/4000 episode: Collision! Total Reward: -17.465, R_dan: 0.068, R_goal: 0.0, R_col: -25.0, R_km: 1.83, R_col_wall: 0.0, R_wall_min_dist: 0.174, R_stop_t: -0.03, R_forward: 0.445, R_way_point_dist: 2.04, R_way_point_dir: 3.026
+2025-02-01 02:32:21, INFO: Path length: 36.8126256851
+2025-02-01 02:32:21, INFO: Path left: 27.1717577128
+2025-02-01 02:32:21, INFO: Actions: 68
+2025-02-01 02:32:21, INFO: Coordinates: 6.06980655983 15.2336429352
+2025-02-01 02:32:21, INFO: Stops times: 3
+
+2025-02-01 02:32:23, INFO: human number: 4
