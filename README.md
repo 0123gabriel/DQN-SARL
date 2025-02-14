@@ -1,6 +1,6 @@
 # DQN with SARL 
 
-This project is based on [SARL](https://arxiv.org/pdf/1809.08835) and [SARL*](https://ieeexplore.ieee.org/abstract/document/8961764) and expands upon it by introducing new rewards, features, and environments to test the algorithm. The two new environments include both static and mobile agents, along with the robot.
+This project is based on [SARL](https://arxiv.org/pdf/1809.08835), [SARL*](https://ieeexplore.ieee.org/abstract/document/8961764) and its implementation [here](https://github.com/LeeKeyu/sarl_star)  and expands upon it by introducing new rewards, features, and environments to test the algorithm. The two new environments include both static and mobile agents, along with the robot.
 
 The main goal of this project was to evaluate the algorithm in a race-like environment, such as F1TENTH. Some of the results are shown below:
 
